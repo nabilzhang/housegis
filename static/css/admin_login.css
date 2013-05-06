@@ -1,0 +1,40 @@
+body {
+	background:#fff;
+}
+div.login {
+	margin:200px auto;
+	width:400px;
+	border:1px solid #003366;
+	padding:0px;
+}
+#title {
+	background:#003366;
+	text-align:center;
+	margin:none;
+	padding:0;
+}
+#title h2 {
+	color:#fff;
+	padding:10px;
+	margin:0;
+}
+
+#login-form .form-item{
+	margin:10px;
+}
+#login-form .form-item label {
+	font-size:16px;
+	color:#003366;
+}
+#login-form .form-item .textbox {
+	width:300px;
+	border:1px solid #bbb;
+}
+#login-form .login-item {
+	text-align:right;
+}
+#info {
+	padding:0px 10px 10px 10px;
+	color:red;
+	display:none;
+}
